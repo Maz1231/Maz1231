@@ -7,7 +7,7 @@ Software Engineer
 I'm a full stack developer who loves coding
 
 * 🌍  I'm based in Denver
-* 🖥️  See my portfolio at [MyProtfolio](http://mazin-protfolio.netlify.app/](https://maz-portfolio-sage.vercel.app/)
+* 🖥️  See my portfolio at [MyProtfolio](https://maz-portfolio-sage.vercel.app/)
 * ✉️  You can contact me at [mazin1231@hotmail.com](mailto:mazin1231@hotmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
